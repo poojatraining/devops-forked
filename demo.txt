@@ -1,1 +1,6 @@
 hello
+
+updating the file
+adding new lines
+
+using nano editor 
