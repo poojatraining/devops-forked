@@ -4,3 +4,7 @@ updating the file
 adding new lines
 
 using nano editor 
+
+updating master branch
+
+Trying No fast forward merge
